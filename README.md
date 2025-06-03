@@ -29,9 +29,8 @@ IEEE INTERNET OF THINGS JOURNAL, VOL. 11, NO. 19, 1 OCTOBER 2024
 
 预计将无人机位置维度在状态中去除，通过数学手段（KKT条件）首先确定无人机高度（最大化服务半径），随后确定无人机平面坐标（最小化无人机与用户的距离）
 
-<img src="F:\通信原理\typora-user-images\image-20250603211551858.png" alt="image-20250603211551858" style="zoom:50%;" />
+![image](https://github.com/user-attachments/assets/6da18f6c-c44e-405a-850e-fc63c2d7bc49)
 
-<img src="F:\通信原理\typora-user-images\image-20250603211648845.png" alt="image-20250603211648845" style="zoom:50%;" />
 
 # 项目总结
 
